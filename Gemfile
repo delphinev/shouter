@@ -31,3 +31,4 @@ end
 
 gem 'monban'
 gem 'monban-generators'
+gem 'paperclip'
