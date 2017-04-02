@@ -29,6 +29,12 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+group :development do
+  gem 'pry'
+end
+
 gem 'monban'
 gem 'monban-generators'
 gem 'paperclip'
+gem 'sunspot_rails'
+gem 'sunspot_solr'
